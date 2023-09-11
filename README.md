@@ -4,12 +4,13 @@ Welcome to my Python Development Internship repository! This repository document
 CodersCave has provided me with a valuable opportunity to grow as a developer. I want to express my sincere thanks to them for their support and mentorship.
 ## Repository Contents
 This repository contains various projects and assignments I've completed during my Python Development Internship. Feel free to explore the code and documentation for each project
-         ## Tables
+**List Of Projects**    
+Phase 1 Project
 
 | Task | Projects |
 | ------ | ----------- |
-| Normal Task  | Calculator | | Random Password Generator|
-| Golden Task | Typing Speed Test | | Voice Recorder| 
+| Normal Task  | Calculator | 
+| Golden Task | Typing Speed Test | 
 
 
            
