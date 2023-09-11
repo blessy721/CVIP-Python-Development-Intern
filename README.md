@@ -6,11 +6,18 @@ CodersCave has provided me with a valuable opportunity to grow as a developer. I
 This repository contains various projects and assignments I've completed during my Python Development Internship. Feel free to explore the code and documentation for each project
 **List Of Projects**   
 
-Phase 1 Project
+Phase 1 Project : 
 
 | Task | Projects |
 | ------ | ----------- |
 | Normal Task  | Calculator | 
+| Golden Task | Typing Speed Test | 
+
+Phase 2 Project : 
+
+| Task | Projects |
+| ------ | ----------- |
+| Normal Task  | Ran | 
 | Golden Task | Typing Speed Test | 
 
 
