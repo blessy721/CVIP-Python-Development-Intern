@@ -5,7 +5,7 @@ CodersCave has provided me with a valuable opportunity to grow as a developer. I
 ## Repository Contents
 This repository contains various projects and assignments I've completed during my Python Development Internship. Feel free to explore the code and documentation for each project
          Phase 1 Projects
-             - [Normal Task: Calculator]
+              [Normal Task: Calculator] (#normal-task---Calculator)
              Golden task  - Random Password Generator
          Phase 2 Projects
            Normal Task  -  Typing Speed Test
