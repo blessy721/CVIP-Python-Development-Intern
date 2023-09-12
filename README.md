@@ -17,7 +17,7 @@ Phase 2 Project :
 
 | Task | Projects |
 | ------ | ----------- |
-| Normal Task  | Ran | 
+| Normal Task  | Random password generator | 
 | Golden Task | Typing Speed Test | 
 ## Acknowledment :
 I would like to acknowledge the effort and dedication I put into developing this code. This project represents countless hours of research, coding, and problem-solving. I'm proud of the final result and hope it serves its intended purpose effectively.
