@@ -35,6 +35,6 @@ I would like to acknowledge the effort and dedication I put into developing this
 
    https://www.linkedin.com/in/blessyjefrina/ 
    
-    Kindly visit my Linkedln Profile and take a look at the internship task I completed related this internship post. 
+Kindly visit my Linkedln Profile and take a look at the internship task I completed related this internship post. 
 
            
