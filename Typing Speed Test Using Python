@@ -21,15 +21,15 @@ class TypingSpeedTester:
         self.typing_ended = False
         
         # Set the size of the pop-up box (width x height)
-        self.root.geometry("1000x900")  # Adjust the width and height as needed
+        self.root.geometry("1000x900")  
         
         self.label = tk.Label(root, text="Typing Speed Tester")
         self.label.pack()
 
-        self.text_display = tk.Label(root, text=self.texts_to_type[self.current_text_index], font=("Arial", 20))  # Increase font size
+        self.text_display = tk.Label(root, text=self.texts_to_type[self.current_text_index], font=("Arial", 20))  
         self.text_display.pack()
 
-        self.entry = tk.Entry(root, width=40, font=("Arial", 20))  # Increase the width and set font size
+        self.entry = tk.Entry(root, width=40, font=("Arial", 20))
         self.entry.pack()
         
         self.submit_button = tk.Button(root, text="Submit", command=self.check_input, state=tk.DISABLED)
@@ -62,7 +62,7 @@ class TypingSpeedTester:
         self.entry.delete(0, tk.END)  # Clear the entry field
         self.submit_button.config(state=tk.DISABLED)
         self.result_label.config(text="")
-        self.entry.config(state=tk.NORMAL)  # Re-enable the input field
+        self.entry.config(state=tk.NORMAL)  
         self.start_typing()
 
     def check_input(self, event=None):
@@ -87,7 +87,7 @@ class TypingSpeedTester:
     def calculate_speed(self, elapsed_time):
         num_words = len(self.texts_to_type[self.current_text_index].split())
         wps = num_words / elapsed_time if elapsed_time != 0 else 0
-        wpm = wps * 60  # Convert WPS to WPM
+        wpm = wps * 60  
         return wps, wpm
 
 if __name__ == "__main__":
