@@ -31,6 +31,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7107407073075724288/
 ## Phase 2 ( Normal Task and Golden Task)
 
 https://www.linkedin.com/posts/blessyjefrina_coderscave-python-pythonprogramming-activity-7112828910584692738-VTJr?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/blessyjefrina_coderscave-python-pythonprogramming-activity-7113177619797331972-wxfN?utm_source=share&utm_medium=member_android
 
 
 ## Acknowledment :
