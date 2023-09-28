@@ -28,6 +28,11 @@ Phase 2 Project :
 https://www.linkedin.com/feed/update/urn:li:activity:7108745182048616448/
 https://www.linkedin.com/feed/update/urn:li:activity:7107407073075724288/
 
+## Phase 2 ( Normal Task and Golden Task)
+
+https://www.linkedin.com/posts/blessyjefrina_coderscave-python-pythonprogramming-activity-7112828910584692738-VTJr?utm_source=share&utm_medium=member_desktop
+
+
 ## Acknowledment :
 I would like to acknowledge the effort and dedication I put into developing this code. This project represents countless hours of research, coding, and problem-solving. I'm proud of the final result and hope it serves its intended purpose effectively.
 
