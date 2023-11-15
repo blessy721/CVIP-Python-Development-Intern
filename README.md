@@ -41,6 +41,6 @@ I would like to acknowledge the effort and dedication I put into developing this
 
    https://www.linkedin.com/in/blessyjefrina/ 
    
-Kindly visit my Linkedln Profile and take a look at the internship task I completed related this internship post. 
-
+Kindly visit my Linkedln Profile and take a look at the internship tasks that I have been worked and completed sucessfully.
+Kindly checkout my Internship Completion Certificate and Letter of Recommendation which I have been shared in my Linkedin profile.
            
